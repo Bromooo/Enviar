@@ -1,0 +1,394 @@
+.my-font{
+  font-family: 'Yantramanav', sans-serif;
+}
+section{
+  padding: 100px 125px 100px 125px;
+}
+
+
+
+
+
+/* ------------------------HEADER SECTION-------------------------------- */
+#enviar{
+  font-weight: 700;
+  color: #FFF;
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 1.45rem;
+}
+#navi-link{
+  color: #FFF;
+}
+#sign-in{
+  color: #1949D8;
+  font-size: 0.8rem;
+  margin-right: 30px;
+  border-radius: 5%;
+  /* padding: 3px 10px; */
+}
+#sign-button{
+  font-size: 0.8rem;
+  border-radius: 5%;
+  background-color: #1949D8;
+  border-color: #1949D8;
+}
+#start-button{
+  font-size: 12px;
+  font-weight: 100;
+  background-color: #1949D8;
+  border-color: #1949D8;
+  height: 45px;
+}
+
+
+.blue-card{
+  position: absolute;
+  z-index: 2;
+  right: 200px;
+  /* top: 170px; */
+  top: 100%;
+  opacity: 0;
+  border-bottom-left-radius: 20px;
+
+}
+.desc{
+  font-size: 15px;
+  margin-top: 25px;
+  font-weight: 100;
+  line-height: 1.5rem;
+  width: 90%;
+  /* margin-bottom: 200px; */
+}
+.desc-row{
+  padding-top: 100px;
+}
+.fine-card{
+  position: absolute;
+  z-index: 1;
+  right: 310px;
+  /* top: 120px; */
+  top: 100%;
+  opacity: 0;
+  border-bottom-left-radius: 20px;
+
+}
+.header{
+  color: #FFF;
+  margin-top: 4.5rem;
+  font-weight: 700;
+  font-size: 3.2rem;
+  width: 80%;
+}
+.heading{
+  color: #FFF;
+  background-color: #353D52;
+  padding-top: 5px;
+  min-height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+.iphone{
+  position: absolute;
+  z-index: 3;
+  right: 7px;
+  /* top: 0; */
+  top: 100%;
+  opacity: 0;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 35px;
+
+
+}
+.left-nav{
+  margin-left: 60px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #FFF;
+}
+.nav-item{
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 0.8rem;
+  margin-top: 8px;
+  margin-right: 30px;
+  color: #FFF;
+}
+.r-head{
+  position: relative;
+}
+
+
+
+/* ------------------------------PARTNERS SECTION---------------------------- */
+
+.partners{
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.part-logos{
+  width: 125px;
+  height: 50px;
+}
+.part-par{
+  color: #948EA5;
+  font-size: 0.7rem;
+  margin-bottom: 35px;
+}
+
+
+/* -----------------------------SERVICE CHARGE SECTION-------------------------------- */
+
+.service-charge-section{
+  background-color: #E5E5E5;
+}
+.serv-head{
+  font-weight: 900;
+  font-size: 5rem;
+}
+.serv-par{
+  margin-top: 30px;
+  font-size: 0.9rem;
+  color: #3F3356;
+  width: 77%;
+  margin-bottom: 35px;
+}
+.serv-h-text{
+  font-weight: 700;
+  font-size: 3.5rem;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.serv-span{
+  width: 400px;
+  height: 400px;
+  border-radius: 60px;
+  background-color: #E2E8FA;
+  color: #8CA4EB;
+  display: inline-block;
+  margin-left: 150px;
+  text-align: center;
+  position: relative;
+}
+.perc{
+  margin: auto;
+  margin-top: 18%;
+  font-size: 14rem;
+  font-weight: 900;
+
+
+}
+
+
+
+
+
+
+/* -------FLEX SECTION------- */
+.flex-intro h3{
+  font-weight: 700;
+  width: 67%;
+  font-size: 2.5rem;
+}
+
+.flex-intro p{
+  width: 40%;
+  font-size: 0.8rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+  .flex-span{
+  background-color: #E2E8FA;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  border-radius: 10px;
+  position: relative;
+  padding: 8px 8px;
+}
+
+.flex-span img{
+  /* position: absolute;
+  left: 10px;
+  top: 10px; */
+}
+.col-md-3 .flx-head{
+  font-size: 1.0rem;
+  margin-top: 30px;
+  font-weight: 700;
+}
+.col-md-3 .flx-par{
+  font-size: 0.8rem;
+  width: 70%;
+}
+.blue-bg{
+  background-color: #1949D8;
+  color: #FFF;
+}
+.blue-bg img{
+  opacity: 0;
+  /* width: 125%; */
+
+}
+.blue-bg h2{
+  font-weight: 700;
+  margin-top: 100px;
+  font-size: 3rem;
+
+}
+.blue-bg p{
+  width: 80%;
+  font-size: 0.75rem;
+  font-weight: 100;
+}
+
+.blue-bg .row{
+  margin-top: 50px;
+}
+.testi .col-md-3{
+  padding-right: 35px;
+}
+.test-span{
+  background-color: #C4C4C4;
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+.one{
+  height: 240px;
+}
+.two{
+  height: 300px;
+}
+.three{
+  height: 260px;
+}
+.four{
+  height: 280px;
+}
+.testi p{
+  font-size: 0.8rem;
+}
+.testi h5{
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+
+
+
+.footer{
+  background-color: #291D4A;
+  color: #FFF;
+}
+.footer a {
+  color: #FFF;
+  display: block;
+  font-size: 0.7rem;
+  margin-bottom: 20px;
+  font-weight: 100;
+}
+.footer  h5{
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin-bottom: 35px;
+}
+.footer a:hover{
+  color: #353D52;
+  text-decoration: none;
+}
+.footer .foot-logo{
+  font-weight: 700;
+  color: #FFF;
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 1.45rem;
+  display: inline;
+}
+.foot-icons{
+  float: right;
+}
+.foot-icon{
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin-left: 8px;
+  background-color: #157FCC;
+}
+.footer hr{
+  border: 0;
+  width: 100%;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  height: 0;
+}
+
+
+/* FLOATING ICONS */
+
+.floats img{
+  opacity: 0;
+  width: 20px;
+  z-index: 7;
+  animation: float 12s ease-in infinite;
+}
+.floats{
+  overflow: hidden;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  bottom: -40px;
+}
+
+@keyframes float{
+  0%{
+    transform: rotate(45deg);
+    transform: translateY(0);
+
+    opacity: 0;
+  }
+  50%{
+    opacity: 1;
+    transform: rotate(45deg);
+
+  }
+  70%{
+    opacity: 1;
+    transform: rotate(-45deg);
+
+  }
+  100%{
+    opacity: 0;
+    transform: rotate(45deg);
+    transform: translateY(-150vh);
+
+
+
+  }
+}
+
+
+
+.floats img:nth-child(1){
+  animation-delay: -1s;
+}
+.floats img:nth-child(4){
+  animation-delay: 1s;
+}
+.floats img:nth-child(3){
+  animation-delay: -2s;
+}
+.floats img:nth-child(6){
+  animation-delay: -3.5s;
+}
+.floats img:nth-child(5){
+  animation-delay: -4.5s;
+}
+.floats img:nth-child(3){
+  animation-delay: -6s;
+}
+.floats img:nth-child(2){
+  animation-delay:-7.3s;
+}
